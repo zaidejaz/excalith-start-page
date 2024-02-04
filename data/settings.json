@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "zaid",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -115,7 +115,7 @@
 				"links": [
 					{
 						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"url": "https://zaidejaz.com",
 						"icon": "mdi:web"
 					},
 					{
@@ -142,12 +142,12 @@
 				"links": [
 					{
 						"name": "GitHub",
-						"url": "https://github.com",
+						"url": "https://github.com/zaidejaz",
 						"icon": "mdi:github"
 					},
 					{
 						"name": "GitLab",
-						"url": "https://gitlab.com",
+						"url": "https://gitlab.com/",
 						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
